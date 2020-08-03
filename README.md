@@ -1,4 +1,4 @@
-#Week 1: Project Work – Decide on a Project
+# Week 1: Project Work – Decide on a Project
 
 DUE: August 17.
 
@@ -46,7 +46,7 @@ DUE: August 17.
 - [https://www.nytimes.com/2011/06/12/us/12bclobbyist.html](https://www.nytimes.com/2011/06/12/us/12bclobbyist.html)
 - [https://www.washingtonpost.com/national/how-trump-is-changing-the-face-of-legal-immigration/2018/07/02/477c78b2-65da-11e8-99d2-0d678ec08c2f\_story.html](https://www.washingtonpost.com/national/how-trump-is-changing-the-face-of-legal-immigration/2018/07/02/477c78b2-65da-11e8-99d2-0d678ec08c2f_story.html)
 
-##CORONAVIRUS (reverse chron)
+## CORONAVIRUS (reverse chron)
 
 - Example Story (July 30): https://khn.org/news/us-public-health-system-underfunded-under-threat-faces-more-cuts-amid-covid-pandemic/
   - Recipe for the story: [https://khn.org/news/how-we-reported-underfunded-and-under-threat/](https://khn.org/news/how-we-reported-underfunded-and-under-threat/)
@@ -87,7 +87,7 @@ DUE: August 17.
 - Example Story (March 13): [https://www.usatoday.com/in-depth/news/investigations/2020/03/13/us-hospitals-overwhlemed-coronavirus-cases-result-in-too-few-beds/5002942002/](https://www.usatoday.com/in-depth/news/investigations/2020/03/13/us-hospitals-overwhlemed-coronavirus-cases-result-in-too-few-beds/5002942002/)
   - Recipe and data for the story: [https://source.opennews.org/articles/covid-19-story-recipe-aha-data-beds/](https://source.opennews.org/articles/covid-19-story-recipe-aha-data-beds/)
 
-Understanding COVID-19 Data
+### Understanding COVID-19 Data
 
 - [http://libproxy.lib.unc.edu/login?url=https://search-proquest-com.libproxy.lib.unc.edu/docview/2422404494?accountid=14244](http://libproxy.lib.unc.edu/login?url=https://search-proquest-com.libproxy.lib.unc.edu/docview/2422404494?accountid=14244)
 - [https://www.propublica.org/article/how-to-understand-covid-19-numbers](https://www.propublica.org/article/how-to-understand-covid-19-numbers)
@@ -96,7 +96,7 @@ Understanding COVID-19 Data
 - [https://docs.google.com/document/d/1wcVpIymXiIfS2Rb8IZcqQZWp2jrZTnk8mWOmXjN-Mbc/edit](https://docs.google.com/document/d/1wcVpIymXiIfS2Rb8IZcqQZWp2jrZTnk8mWOmXjN-Mbc/edit)
 - [https://covid19.ncdhhs.gov/dashboard/about-data](https://covid19.ncdhhs.gov/dashboard/about-data)
 
-- Other COVID-19 Data:
+### Other COVID-19 Data:
   - [https://covid19.ncdhhs.gov/dashboard/about-data](https://covid19.ncdhhs.gov/dashboard/about-data)
   - [https://github.com/mtdukes/nc-covid-by-zip](https://github.com/mtdukes/nc-covid-by-zip)
   - Hospital data, by state: [https://healthdata.gov/dataset/covid-19-estimated-patient-impact-and-hospital-capacity-state](https://healthdata.gov/dataset/covid-19-estimated-patient-impact-and-hospital-capacity-state)
@@ -110,7 +110,7 @@ Understanding COVID-19 Data
   - [https://github.com/jdingel/DingelNeiman-workathome](https://github.com/jdingel/DingelNeiman-workathome)
   - https://github.com/reichlab/covid19-forecast-hub
 
-##POLICE
+## POLICE
 
 - Police Use of Force
   - Example Story (2019): [https://force.nj.com/](https://force.nj.com/)
@@ -147,7 +147,7 @@ Understanding COVID-19 Data
     - Nationwide data (mostly pre-2018): [https://openpolicing.stanford.edu/data/](https://openpolicing.stanford.edu/data/)&#39;
   - Example Story (2018): [https://www.washingtonpost.com/news/monkey-cage/wp/2018/07/17/what-data-on-20-million-traffic-stops-can-tell-us-about-driving-while-black/](https://www.washingtonpost.com/news/monkey-cage/wp/2018/07/17/what-data-on-20-million-traffic-stops-can-tell-us-about-driving-while-black/)
 
-###OTHER PUBLIC SAFETY
+### OTHER PUBLIC SAFETY
 
 - *School Shootings*
   - Example Story: [https://www.washingtonpost.com/graphics/2018/local/school-shootings-database/](https://www.washingtonpost.com/graphics/2018/local/school-shootings-database/)
@@ -164,7 +164,7 @@ Understanding COVID-19 Data
   - Example Story (2015): [https://www.motherjones.com/politics/2015/10/mass-shootings-threat-assessment-shooter-fbi-columbine/](https://www.motherjones.com/politics/2015/10/mass-shootings-threat-assessment-shooter-fbi-columbine/)
     - Data for the story: [https://www.motherjones.com/politics/2012/12/mass-shootings-mother-jones-full-data/](https://www.motherjones.com/politics/2012/12/mass-shootings-mother-jones-full-data/)
 
-##POLITICS &amp; CAMPAIGNS
+## POLITICS &amp; CAMPAIGNS
 
 - Story: [https://www.buzzfeednews.com/article/johntemplon/black-voters-underrepresented-in-biggest-midterms](https://www.buzzfeednews.com/article/johntemplon/black-voters-underrepresented-in-biggest-midterms)
   - Data: [https://github.com/BuzzFeedNews/2018-10-midterm-demographics](https://github.com/BuzzFeedNews/2018-10-midterm-demographics)
@@ -222,9 +222,9 @@ Understanding COVID-19 Data
 - How many votes does each candidate probably need to win?
 - Where are they?
 
-##OTHER
+## OTHER
 
-###Housing Equity
+### Housing Equity
 
 - Story: [http://powerreporting.com/color/color\_of\_money.pdf](http://powerreporting.com/color/color_of_money.pdf)
   - Other story: https://www.revealnews.org/article/for-people-of-color-banks-are-shutting-the-door-to-homeownership/
@@ -237,7 +237,7 @@ Understanding COVID-19 Data
   - Data: [https://www.blackknightinc.com/data-reports/?report-type=mortgage-monitor&amp;report-year=2020](https://www.blackknightinc.com/data-reports/?report-type=mortgage-monitor&amp;report-year=2020)
   - Similar data: [https://www.urbandisplacement.org/](https://www.urbandisplacement.org/)
 
-###Pedestrian/Auto Data
+### Pedestrian/Auto Data
 
 - Example Story: [https://cnsmaryland.org/pedestrian-accidents-pile-up-on-maryland-roads/](https://cnsmaryland.org/pedestrian-accidents-pile-up-on-maryland-roads/)
   - Data for Story: [https://opendata.maryland.gov/browse?q=Maryland%20Statewide%20Vehicle%20Crashes&amp;sortBy=relevance](https://opendata.maryland.gov/browse?q=Maryland%20Statewide%20Vehicle%20Crashes&amp;sortBy=relevance)
@@ -247,7 +247,7 @@ Understanding COVID-19 Data
     - [https://catalog.data.gov/dataset/crash-data-985bd](https://catalog.data.gov/dataset/crash-data-985bd)
     - [https://www2.ncdps.gov/Index2.cfm?a=000003%2C000014%2C002745](https://www2.ncdps.gov/Index2.cfm?a=000003%2C000014%2C002745)
 
-###Pain Pills
+### Pain Pills
 
 - Example Story (2019): [https://www.wral.com/data-drives-the-fight-against-opioid-deaths-in-nc/18597605/](https://www.wral.com/data-drives-the-fight-against-opioid-deaths-in-nc/18597605/)
   - Reporting Recipes: [https://www.washingtonpost.com/national/2019/08/12/post-released-deas-data-pain-pills-heres-what-local-journalists-are-using-it/](https://www.washingtonpost.com/national/2019/08/12/post-released-deas-data-pain-pills-heres-what-local-journalists-are-using-it/)
@@ -270,19 +270,19 @@ Understanding COVID-19 Data
   - Data: [https://www.wral.com/school-arrest-disparity-methodology/17575769/](https://www.wral.com/school-arrest-disparity-methodology/17575769/)
 - Wildfire stories and data: [https://purl.stanford.edu/xj043rd8767](https://purl.stanford.edu/xj043rd8767)
 
-#RECIPE BOOKS
+# RECIPE BOOKS
 
 - [https://github.com/BuzzFeedNews/everything](https://github.com/BuzzFeedNews/everything)
 - [https://github.com/datadesk/notebooks](https://github.com/datadesk/notebooks)
 - [https://data.fivethirtyeight.com/](https://data.fivethirtyeight.com/)
 
-#MORE INSPRIATION STORIES
+# MORE INSPRIATION STORIES
 
 - [https://www.ire.org/resource-center/stories](https://www.ire.org/resource-center/stories)
 - [https://www.ire.org/publications/extra-extra](https://www.ire.org/publications/extra-extra)
 - [https://www.ire.org/archives/category/ire-journal](https://www.ire.org/archives/category/ire-journal)
 
-#DATA CATALOGS FROM NEWS ORGS
+# DATA CATALOGS FROM NEWS ORGS
 
 - [https://www.propublica.org/datastore/](https://www.propublica.org/datastore/)
 - [https://data.world/associatedpress](https://data.world/associatedpress)
