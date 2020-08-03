@@ -268,7 +268,8 @@ DUE: August 17.
   - Data: [https://github.com/wpinvestigative/immigrant\_visas](https://github.com/wpinvestigative/immigrant_visas)
 - Story: [https://www.wral.com/nc-s-alarming-disparity-of-black-student-arrests-among-worst-in-country/17515727/](https://www.wral.com/nc-s-alarming-disparity-of-black-student-arrests-among-worst-in-country/17515727/)
   - Data: [https://www.wral.com/school-arrest-disparity-methodology/17575769/](https://www.wral.com/school-arrest-disparity-methodology/17575769/)
-- Wildfire stories and data: [https://purl.stanford.edu/xj043rd8767](https://purl.stanford.edu/xj043rd8767)
+
+### Wildfire stories and data: [https://purl.stanford.edu/xj043rd8767](https://purl.stanford.edu/xj043rd8767)
 
 # RECIPE BOOKS
 
