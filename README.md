@@ -275,7 +275,6 @@ DUE: August 17.
 
 - [https://github.com/BuzzFeedNews/everything](https://github.com/BuzzFeedNews/everything)
 - [https://github.com/datadesk/notebooks](https://github.com/datadesk/notebooks)
-- [https://data.fivethirtyeight.com/](https://data.fivethirtyeight.com/)
 
 # MORE INSPRIATION STORIES
 
